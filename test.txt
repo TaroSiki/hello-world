@@ -1,0 +1,2 @@
+tortoiseGitをインストールしてのテスト。
+今回はSSHではなく、URLを介したHTTPSでの通信で取得。
